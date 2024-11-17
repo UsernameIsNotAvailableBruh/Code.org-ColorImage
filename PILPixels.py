@@ -30,7 +30,7 @@ def Saver(im:Image.Image):
         Resize.save(ResizeSave)
     return ThumbnailSave, ResizeSave
 
-Pics = ["Test.png", "B&WLandscape.png", "DOG.jpg", "Paint.png", "PurpToYello.png", OnlineImage("https://www.prepbaseballreport.com/passets/photo/RI/1892430567-IMG_2533.jpeg")]
+Pics = ["Test.png", "B&WLandscape.png", "DOG.jpg", "Paint.png", "PurpToYello.png"] #, OnlineImage("")]
 
 with Image.open(Pics[1], mode="r") as im:
     Thumb, Resize = Saver(im)
