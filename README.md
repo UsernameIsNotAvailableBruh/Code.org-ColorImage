@@ -1,5 +1,5 @@
 # This repo is about a code.org's "Computer Science Principles" widget (linked below)
-[unit 1 lesson 8 "color images"] (https://studio.code.org/s/csp1-2023/lessons/8/levels/4/)
+[Unit 1 Lesson 8 Color Images Widget](https://studio.code.org/s/csp1-2023/lessons/8/levels/4/ "Unit 1 Lesson 8")
 
 ### To use:
 You can use this script to generate an image in bits and then paste the BinaryOutput.txt
